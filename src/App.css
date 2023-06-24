@@ -11,7 +11,7 @@ body{
     padding: 1vw 3vw;
     height: 30vh;
     width: 40vw;
-
+    border-radius: 10px;
     
     background-color: aliceblue;
 }
@@ -29,7 +29,8 @@ img{
     margin-top: -70px;
 }
 .bookmarks{
-   padding: 5vw;
+   padding: 2vw 5vw;
+   border-radius: 10px;
    background-color: rgb(241, 245, 245);
 }
 #red{
@@ -51,7 +52,18 @@ border-radius: 5px;
     background-color: rgb(80, 42, 206);
     color: white;
     height: 6vh;
+    width: 8vw;
     border: 0px;
     border-radius: 3px;
     
+    }
+    h5{
+    
+        padding: 0.5vw;
+        padding-left: 2vw;
+        border-radius: 1vw;
+        background-color: rgb(212, 228, 235);
+        text-align: left;
+    
+        /* border: 1px solid grey; */
     }
