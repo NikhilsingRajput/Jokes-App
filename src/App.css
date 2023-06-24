@@ -1,0 +1,57 @@
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin:0;
+    height: 100vh;
+    align-items: center;
+    background-color: violet;
+}
+.box{
+    padding: 1vw 3vw;
+    height: 30vh;
+    width: 40vw;
+
+    
+    background-color: aliceblue;
+}
+p{
+    font-size: 20px;
+}
+h2{
+    color: gray;
+    text-decoration: underline;
+}
+img{
+    float: right;
+    width: 3vw;
+    /* height: 7vh; */
+    margin-top: -70px;
+}
+.bookmarks{
+   padding: 5vw;
+   background-color: rgb(241, 245, 245);
+}
+#red{
+background-color: red;
+color: white;
+height: 5vh;
+border: 0px;
+border-radius: 5px;
+}
+.new{
+    background-color: rgb(59, 22, 182);
+    color: white;
+    height: 5vh;
+    border: 0px;
+    border-radius: 5px;
+    margin-right: 3vw;
+    }
+.Home{
+    background-color: rgb(80, 42, 206);
+    color: white;
+    height: 6vh;
+    border: 0px;
+    border-radius: 3px;
+    
+    }
